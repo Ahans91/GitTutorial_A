@@ -1,0 +1,2 @@
+Hi I am here to learn Git and Github
+My project will be well detailed and will use a lot of commands 
